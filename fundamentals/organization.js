@@ -4,6 +4,6 @@ console.log(
 {
     {
         console.log("Hello, ");
-        console.log('world!!')  //Padrão do curso, não usa ponto e vírgula e aspas simples
+        console.log('world!!')  //Class standard, we don't use ";" and use single quotes
     }
 }
