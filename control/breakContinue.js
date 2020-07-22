@@ -14,6 +14,7 @@ for(y in numbers) {
     console.log(`Position ${y} = ${numbers[y]}.`)
 }
 
+//avoid use this!!
 external: for(a in numbers) {
     for(b in numbers) {
         if(a == 2 && b == 3) {
